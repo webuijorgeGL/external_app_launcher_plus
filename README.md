@@ -1,6 +1,6 @@
 ## Overview
 
-A Flutter plugin which helps you to open another app from your app. The package asks you for four parameters out of which two are mandatory.
+Fork of external_app_launcher for AGP 8 compatibility with Flutter 3.29.0. A Flutter plugin to open another app from your app with two mandatory and two optional parameters
 
 ## Getting Started
 

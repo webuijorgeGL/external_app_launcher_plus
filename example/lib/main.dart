@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:external_app_launcher/external_app_launcher.dart';
+import 'package:external_app_launcher_plus/external_app_launcher_plus.dart';
 
 void main() {
   runApp(const MyApp());
