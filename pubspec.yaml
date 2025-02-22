@@ -1,6 +1,6 @@
 name: external_app_launcher_plus
 description: A Flutter plugin which helps you to open another app from your app. This is compatible with Flutter 3.29 
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/webuijorgeGL/external_app_launcher_plus
 homepage: https://github.com/webuijorgeGL/external_app_launcher_plus
 issue_tracker: https://github.com/webuijorgeGL/external_app_launcher_plus/issues
