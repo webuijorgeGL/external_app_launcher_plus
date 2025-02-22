@@ -1,9 +1,9 @@
 name: external_app_launcher_plus
 description: A Flutter plugin which helps you to open another app from your app. This is compatible with Flutter 3.29 
 version: 1.0.1
-repository: https://github.com/webuijorgeGL/webview_cookie_manager_plus.git
-homepage: https://github.com/webuijorgeGL/webview_cookie_manager_plus.git
-issue_tracker: https://github.com/webuijorgeGL/webview_cookie_manager_plus/issues
+repository: https://github.com/webuijorgeGL/external_app_launcher_plus
+homepage: https://github.com/webuijorgeGL/external_app_launcher_plus
+issue_tracker: https://github.com/webuijorgeGL/external_app_launcher_plus/issues
 
 environment:
   sdk: ">=2.12.0 <4.0.0"
